@@ -1,0 +1,91 @@
+
+h1{
+  color: #08FFC8;
+}
+h2{
+  color: #388E3C;
+}
+h3{
+  color: #BBBFCA;
+}
+P{
+  font-size: 20px;
+  font-family: 'Montserrat', sans-serif;
+  color: #BBBFCA;
+  font-weight: bolder;
+
+}
+.upper-container{
+  text-align: left;
+  padding: 30px;
+  font-family: 'Montserrat', sans-serif;
+
+}
+.left-container{
+
+  position: absolute;
+  left:0;
+  top: 50%;
+  right: 50%;
+  bottom: 0;
+  text-align: left;
+  background-color: #048998;
+  height: 500px;
+  width: 50%;
+  padding-left: 30px;
+  padding-top: 80px;
+
+  font-family: 'Montserrat', sans-serif;
+
+
+}
+.per{
+  font-size: 10px;
+  color: #BBBFCA;
+}
+
+.right-container{
+
+  text-align: left;
+  font-family: 'Montserrat', sans-serif;
+  position: absolute;
+  left: 50%;
+  right: 0;
+  bottom: 0;
+  top: 50%;
+  padding-left: 30px;
+  padding-top: 80px;
+
+  background-color: #3BB4C1;
+  height: 500px;
+  width: 50%;
+
+}
+.sub{
+  color: #FFFFFF;
+  font-size: 30px;
+}
+.dollar{
+  color: #FFFFFF;
+}
+.btn {
+  -webkit-border-radius: 10;
+  -moz-border-radius: 10;
+  border-radius: 10px;
+  font-family: Arial;
+  color: #edeef0;
+  font-size: 27px;
+  background: #96d42a;
+  padding: 10px 40px 10px 40px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #46d60d;
+  background-image: -webkit-linear-gradient(top, #46d60d, #a6ff00);
+  background-image: -moz-linear-gradient(top, #46d60d, #a6ff00);
+  background-image: -ms-linear-gradient(top, #46d60d, #a6ff00);
+  background-image: -o-linear-gradient(top, #46d60d, #a6ff00);
+  background-image: linear-gradient(to bottom, #46d60d, #a6ff00);
+  text-decoration: none;
+}
